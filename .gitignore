@@ -1,0 +1,15 @@
+# KiCad backups
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+
+# Auto-save and lock files
+_autosave-*
+*.lck
+
+# Output files (regenerate, don't track)
+gerbers/
+fabrication/
+*.zip
+*.pdf
